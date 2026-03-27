@@ -36,3 +36,5 @@ I'm Fauzi Rahmat Febrian, a student majoring in Information science at the Unive
 [![](https://visitcount.itsvg.in/api?id=FauziRahmatFebrian&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
