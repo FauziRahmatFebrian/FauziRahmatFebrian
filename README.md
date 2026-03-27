@@ -23,8 +23,11 @@ I'm Fauzi Rahmat Febrian, a student majoring in Information science at the Unive
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FauziRahmatFebrian&theme=maroongold&show_icons=true&)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FauziRahmatFebrian&show_icons=true&bg_color=0,260000,b30000&title_color=fdd935&text_color=ffffff&icon_color=ff4d4d)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FauziRahmatFebrian&layout=compact&bg_color=0,260000,b30000&title_color=fdd935&text_color=ffffff)
+
+![WakaTime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=USERNAME_WAKATIME_KAMU&theme=maroongold)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
