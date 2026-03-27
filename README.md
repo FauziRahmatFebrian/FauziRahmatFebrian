@@ -3,7 +3,7 @@
 I'm Fauzi Rahmat Febrian, a student majoring in Information science at the University of Veteran Jakarta. I have a strong interest in in Systems Engineering and data management. Skilled in processing data into information that supports efficiency and decision-making, and possesses a cross disciplinary understanding of technology, communications, and information management.
 
 
-[![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-fauzifebri428@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:fauzifebri428@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-fauzirahmatfebrian-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzirf27/) 
 [![](https://img.shields.io/github/followers/FauziRahmatFebrian?label=GitHub%20Followers)](https://github.com/FauziRahmatFebrian)
 
