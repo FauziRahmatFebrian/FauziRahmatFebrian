@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Fauzi%20Rahmat%20Febrian&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Fauzi%20Rahmat%20Febrian&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Data%20Engineer%20&descSize=30&descAlignY=85&section=header" /> 
  
 I'm Fauzi Rahmat Febrian, a student majoring in Information science at the University of Veteran Jakarta. I have a strong interest in in Systems Engineering and data management. Skilled in processing data into information that supports efficiency and decision-making, and possesses a cross disciplinary understanding of technology, communications, and information management.
 
