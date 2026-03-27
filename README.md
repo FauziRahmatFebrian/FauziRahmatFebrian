@@ -23,7 +23,8 @@ I'm Fauzi Rahmat Febrian, a student majoring in Information science at the Unive
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=maroongold&show_icons=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fauzirahmatfebrian&theme=maroongold&show_icons=true&)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
